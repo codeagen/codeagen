@@ -1,9 +1,32 @@
-# Hi, I'm Muaadh Adeleye
-The codeagen
+# Hi, I'm Muaadh Adeleye 👋
 
-A Backend developer with over two years of experience building backend systems with my strenghts mainly in TypeScript and Nest js.
+> **The Codeagen** · Backend Developer
 
-Recently I have been working as a co founder on www.veryfy.io which is a platform to help professionals have and display a real proof of work and help hiring managers work with verified professionals
+Backend developer with **2+ years** building backend systems, with core strengths in **TypeScript** and **NestJS**.
+
+---
+
+### 🚀 What I'm working on
+
+I'm currently a **co-founder** at [Veryfy](https://www.veryfy.io) — a platform that helps:
+
+- **Professionals** display real, verified proof of work
+- **Hiring managers** confidently work with verified talent
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** TypeScript, JavaScript
+- **Frameworks:** NestJS, Node.js
+- **Databases:** PostgreSQL
+
+---
+
+### 📫 Get in touch
+
+- 🌐 [veryfy.io](https://www.veryfy.io)
+- 💼 LinkedIn: **
 
 <!--
 **codeagen/codeagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
