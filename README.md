@@ -1,4 +1,4 @@
-# Hi 👋 I'm Muaadh Adeniyi Adeleye
+# Hi, I'm Muaadh Adeleye
 The codeagen
 <!--
 **codeagen/codeagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
