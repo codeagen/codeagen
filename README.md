@@ -1,5 +1,8 @@
 # Hi, I'm Muaadh Adeleye
 The codeagen
+
+A Backend developer with over two years of experience building backend systems with my strenghts mainly in TypeScript and Nest js.
+
 <!--
 **codeagen/codeagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
