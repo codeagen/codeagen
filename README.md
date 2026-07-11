@@ -3,6 +3,8 @@ The codeagen
 
 A Backend developer with over two years of experience building backend systems with my strenghts mainly in TypeScript and Nest js.
 
+Recently I have been working as a co founder on a platform named www.veryfy.io
+
 <!--
 **codeagen/codeagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
