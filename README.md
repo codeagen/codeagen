@@ -26,7 +26,7 @@ I'm currently a **co-founder** at [Veryfy](https://www.veryfy.io) — a platform
 ### 📫 Get in touch
 
 - 🌐 [veryfy.io](https://www.veryfy.io)
-- 💼 LinkedIn: **
+- 💼 LinkedIn: *https://www.linkedin.com/in/muaadh-adeleye-b18b1a267*
 
 <!--
 **codeagen/codeagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
