@@ -28,6 +28,12 @@ I'm currently a **co-founder** at [Veryfy](https://www.veryfy.io) — a platform
 - 🌐 [veryfy.io](https://www.veryfy.io)
 - 💼 LinkedIn: *https://www.linkedin.com/in/muaadh-adeleye-b18b1a267*
 
+---
+
+### 📚 Currently reading
+
+- [**Designing Data-Intensive Applications**](https://dataintensive.net) — Martin Kleppmann
+
 <!--
 **codeagen/codeagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
